@@ -2,7 +2,9 @@
 class Cat
   attr_accessor :name
   #def method_name
-
+  def meow
+    puts "Meow!"
+  end
 end
 
 
